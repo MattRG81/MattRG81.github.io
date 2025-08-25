@@ -1,4 +1,3 @@
-# enfoques.github.io
 # Sistemas y Enfoques Psicológicos
 
 ## Resumen
